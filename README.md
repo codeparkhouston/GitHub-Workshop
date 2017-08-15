@@ -1,5 +1,4 @@
 # TXRX-GitHub-Workshop
-# TXRX-GitHub-Workshop
 ## GitHub Workshop
 ### Overview
 In this workshop, you will  introduce students to GitHub, the most popular git SaaS product for collaboration. 
