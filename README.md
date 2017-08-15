@@ -19,3 +19,4 @@ In this workshop, you will  introduce students to GitHub, the most popular git S
 ### Workshop Objective
 * Students should have a basic understanding of what Git is and how to use GitHub to do work
 * Should gain insight on how GitHub can be used for collaborating on **any** kind of project
+---
