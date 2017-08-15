@@ -20,3 +20,8 @@ In this workshop, you will  introduce students to GitHub, the most popular git S
 * Students should have a basic understanding of what Git is and how to use GitHub to do work
 * Should gain insight on how GitHub can be used for collaborating on **any** kind of project
 ---
+#### Git
+From [wikipedia](https://en.wikipedia.org/wiki/Git)
+> Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.
+
+A version control system (VCS) is software system for tacking and managing changes on files.
