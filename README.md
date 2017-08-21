@@ -36,3 +36,9 @@ Gits basic commands are:
 1. `commit` - creates a new point in time based off of changed lines/files in the staging area
 1. `push` - uploads local commits to a remote repository
 1. `pull` - downloads remote commits to your local repository; this can fast-forward your branch to the state the server is in
+
+#### GitHub Workflow
+It is well known that GitHub enables building software collaboratively, but it can be used for so much more.
+
+We will demonstrate this by writing a short story.
+
