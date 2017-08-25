@@ -1,6 +1,6 @@
 # TXRX GitHub Workshop
 ## Overview
-In this workshop, you will  introduce students to GitHub, the most popular git SaaS product for collaboration.
+In this workshop, you will introduce students to GitHub, the most popular git SaaS (software as a service) product for collaboration.
 
 ### Instructor Priorities
 * Students should understand basic Git commands
@@ -18,7 +18,7 @@ In this workshop, you will  introduce students to GitHub, the most popular git S
 * A demo repository will need to be created for the workshop. We will use this repo to demonstrate the GitHub workflow.
 ### Workshop Objective
 * Students should have a basic understanding of what Git is and how to use GitHub to do work
-* Should gain insight on how GitHub can be used for collaborating on **any** kind of project
+* Should gain insight on how GitHub can be used for collaborating on **any** kind of project - design, art, blogging, etc.
 ---
 #### Git
 From [wikipedia](https://en.wikipedia.org/wiki/Git)
@@ -29,7 +29,7 @@ A version control system (VCS) is software system for tacking and managing chang
 Git is special because it's a distributed VCS. This is different from a centralized VCS in that a copy of a repository can be on multiple machines. This is Git's killer feature. Its decentralized nature allows it to be better suited to faster workflows, cheaper branching and merging, and more robustness.
 
 Gits basic commands are:
-1. `init` - creates a new `.git` directory in current directory (this is what makes a folder a *repositoru*)
+1. `init` - creates a new `.git` directory in current directory (this is what makes a folder a *repository*)
 1. `branch` - creates a new timeline
 1. `merge` - merges one branch into another
 1. `add` - selects lines/files that have been changed onto a staging area
@@ -39,6 +39,7 @@ Gits basic commands are:
 
 #### GitHub Workflow
 It is well known that GitHub enables building software collaboratively, but it can be used for so much more.
+
 
 We will demonstrate this by writing a short story together.
 
@@ -55,9 +56,3 @@ Creating a repo on GitHub is quick and easy.
 1. Click the green **Create Repository** button
 
 At this point, we now have a repository that all students can clone to their computers.
-
-
-
-
-
-
