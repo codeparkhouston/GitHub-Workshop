@@ -3,10 +3,6 @@
 In this workshop, you will  introduce students to GitHub, the most popular git SaaS product for collaboration.
 
 ### Instructor Priorities
-* Students should understand basic Git commands
-	* `branch`/`merge`
-	* `add`/`commit`
-	* `push`/`pull`
 * Student should understand GitHub workflow
 	* Create an issue
 	* Create a Pull Request
