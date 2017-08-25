@@ -40,5 +40,24 @@ Gits basic commands are:
 #### GitHub Workflow
 It is well known that GitHub enables building software collaboratively, but it can be used for so much more.
 
-We will demonstrate this by writing a short story.
+We will demonstrate this by writing a short story together.
+
+1. Create the repository on GitHub
+* We will either need someone to step up and create it for the class or the instructor can do so.
+
+Creating a repo on GitHub is quick and easy.
+1. Navigate to [GitHub](https://github.com) (you will need to sign in if not already)
+1. Click the green **New Repository** button located on the right side of the screen
+1. Name the repo _Collaborative Story_
+1. Ensure that the repo is marked as **Public**
+1. Ensure that the option to **Initialize this Repository with a README** is checked
+1. Select _MIT_ in the **Add a license** drop-down
+1. Click the green **Create Repository** button
+
+At this point, we now have a repository that all students can clone to their computers.
+
+
+
+
+
 
